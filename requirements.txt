@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+requests
+streamlit
+scikit-learn
+pandas
+numpy
+sentence-transformers  # For better embeddings later
